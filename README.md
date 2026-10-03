@@ -84,21 +84,16 @@ I am seeking **my first internship opportunity in the technology field**, where 
 <div align="left">
 
   <a href="mailto:miguelbellompc@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/email-c20000?style=for-the-badge&logo=Gmail&labelColor=%230b0a0a
-    " alt="E-mail">
+    <img src="https://img.shields.io/badge/email-c20000?style=for-the-badge&logo=Gmail&labelColor=%230b0a0a" alt="E-mail">
   </a>
   <a href="https://www.instagram.com/mgl_bm" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-c20000?style=for-the-badge&logo=Instagram&logoColor=c20000&labelColor=%230b0a0a
-    " alt="Instagram">
+    <img src="https://img.shields.io/badge/instagram-c20000?style=for-the-badge&logo=Instagram&logoColor=c20000&labelColor=%230b0a0a" alt="Instagram">
   </a>
   <a href="https://www.linkedin.com/in/miguel-bello-mendes-620967349" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-c20000?style=for-the-badge&labelColor=c20000
-    " alt="Linkedin">
+    <img src="https://img.shields.io/badge/linkedin-c20000?style=for-the-badge&labelColor=c20000" alt="Linkedin">
   </a>
 
 </div>
-
-
 
 <div align="center">
 
